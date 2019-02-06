@@ -1,1 +1,1 @@
-print(input("Enter the word or number"))
+print(input("Enter the word"))
